@@ -1,11 +1,11 @@
 <img width="1000" alt="header_1" src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png">
 
-<h1 align="center">Hi 👋, I am Faizal Kadiwal</h1> 
+<h1 align="center">Hi 👋, I am Hannan Kadival</h1> 
 <h3 align="center">A passionate full-stack developer from India.</h3><br><br>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-![](https://komarev.com/ghpvc/?username=faizal108&color=dc143c)
+![](https://komarev.com/ghpvc/?username=its-hannan&color=dc143c)
 <br>
 ☞ ✨ Java is Robust  | 🌹 Python is Versatile
 
@@ -13,16 +13,16 @@
 
 ☞ 💬 Ask me about **Java, Spring Boot, React, IOT**
 
-☞ 📫 How to reach me **faizalkadiwal108@gmail.com**
+☞ 📫 How to reach me **kadivalhannan09@gmail.com**
 
-☞ 📄 Know about my experiences https://www.linkedin.com/in/faizal-kadiwal-026778233
+☞ 📄 Know about my experiences https://www.linkedin.com/in/hannan-kadival-39baaa259
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/FaizalKadiwal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faizal kadiwal" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/faizal-kadiwal-026778233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal kadiwal" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/faizalkadiwal108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="faizal Kadiwal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hannan-kadival-39baaa259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faizal kadiwal" height="30" width="40" /></a>
+ <a href="https://www.hackerrank.com/kadivalhannan09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hannan Kadival" height="30" width="40" /></a>
 </p>
 
 
@@ -62,7 +62,7 @@
     <p align='center'>
       <img src="https://github-widgetbox.vercel.app/api/profile?username=its-hannan&data=followers,repositories,stars,commits&theme=radical"><br><br>
 <!--       <img src="https://github-readme-streak-stats.herokuapp.com/?user=faizal108&theme=omni&ring=1EE2BF&fire=E25525&hide_border=true"><br><br> -->
-      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-hannan&theme=radical&column=5&margin-w=15&margin-h=15" alt="Faizal" /></a><br>
+      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-hannan&theme=radical&column=5&margin-w=15&margin-h=15" alt="Hannan" /></a><br>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-hannan&hide=border&theme=tokyonight"><br><br>
     </p>
 
